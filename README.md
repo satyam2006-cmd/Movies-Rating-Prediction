@@ -35,8 +35,8 @@ This repository contains a **Movie Rating Prediction** project built using Pytho
 1. **Clone the repo**:
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/satyam2006-cmd/Movies-Rating-Prediction.git
+cd Movies-Rating-Prediction
 ```
 
 2. **Create a virtual environment**:
